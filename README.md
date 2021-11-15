@@ -21,11 +21,11 @@ request - Search Videos
 ### Deploy to Heroku
 Click Below Button to Deploy to Heroku:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AbirHasan2005/PDisk-Videos-Search)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Jimicreator/jimibotz-02)
 
 ### Deploy Locally
 ```shell
-git clone https://github.com/AbirHasan2005/PDisk-Videos-Search
+git clone https://github.com/Jimicreator/jimibotz-02
 cd PDisk-Videos-Search
 pip3 install -r requirements.txt
 # Set Configs in "configs.env" file
